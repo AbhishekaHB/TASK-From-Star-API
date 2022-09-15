@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Jspider"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay"
+	}
+}
